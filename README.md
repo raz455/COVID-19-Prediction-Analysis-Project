@@ -212,10 +212,10 @@ If you don’t explicitly point out, you risk losing points.
 
 # 🚀 Final Checklist 
 
-* ✅ README.md (with answers above)
+* ✅ README.md
 * ✅ Jupyter notebook
 * ✅ requirements.txt
+* ✅ COVID-19 Datafiles in Zip
 * ✅ walkthrough video
-* ✅ clear model evaluation
-
+  
 ---
