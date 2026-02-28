@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Prediction & Analysis Project
+# 🦠 COVID-19 Prediction & Analysis Capstone Project
 
 ## 📌 Project Overview
 
@@ -8,15 +8,11 @@ The rapid spread of COVID-19 created an urgent need for data-driven methods to u
 
 # 🎯 Capstone Requirements Mapping (VERY IMPORTANT)
 
-Add this table — graders love it.
-
 | Requirement          | How it is demonstrated                                                    |
 | -------------------- | ------------------------------------------------------------------------- |
 | **Data Processing**  | Data cleaning, manipulation, and visualization of global COVID-19 dataset |
 | **Machine Learning** | Time-series forecasting and clustering models                             |
 | **Generative AI**    | Used for code assistance, debugging, and documentation support            |
-
-✅ This alone boosts clarity a lot.
 
 ---
 
@@ -95,7 +91,7 @@ COVID-19 data is time-dependent and geographically distributed, requiring carefu
 
 ---
 
-## 🔹 Generative AI Usage (DO NOT SKIP)
+## 🔹 Generative AI Usage 
 
 Be honest and specific. Example you can adapt:
 
@@ -111,7 +107,7 @@ Be honest and specific. Example you can adapt:
 * Pure statistical models
 * Real-time streaming pipeline
 
-**Why not selected**
+**Why not selected?**
 
 * dataset constraints
 * interpretability needs
@@ -136,8 +132,6 @@ Be honest and specific. Example you can adapt:
 * Limited feature richness
 * Forecast uncertainty increases over time
 
-(⚠️ mention uncertainty — graders like this)
-
 ---
 
 ## What I Would Improve Next Time
@@ -155,43 +149,68 @@ This project strengthened my ability to connect data processing, machine learnin
 
 ---
 
-# 📊 Technical Sections (Your Existing Content)
+# 📊 Technical Sections
 
-✅ **Now your original sections go AFTER the rubric answers**
+## Introduction
+The rapid spread of COVID-19 necessitates comprehensive analysis and prediction methods to guide public health interventions. This project explores various techniques, including machine learning and deep learning, to detect and forecast COVID-19 cases.
 
-Keep your sections — they are good:
+## Objective
+The primary goal of this project is to develop a predictive system capable of forecasting COVID-19 transmission patterns and identifying potential risk factors.
 
-* Introduction
-* Objective
-* Literature Review
-* Flowchart
-* Date-wise Analysis
-* Country-wise Analysis
-* Clustering
-* Forecasting
-* Model Comparison
-* Limitations
-* Conclusion
+## Background and Literature Review of COVID-19
+This section provides an overview of existing research on COVID-19 detection using machine learning and deep learning algorithms.
 
-👉 Just place them **after** the three questions.
+## Flow-chart for Prediction System
+A flowchart illustrates the process of predicting COVID-19 transmission patterns, guiding the subsequent analysis steps.
+
+## Date-wise Analysis of COVID-19 Data
+Analyzing COVID-19 data on a daily basis provides insights into the temporal evolution of the pandemic and helps identify emerging trends.
+
+## Country-wise Analysis of COVID-19 Data
+Examining COVID-19 data on a country-by-country basis enables the comparison of transmission rates and mitigation strategies across different regions.
+
+## Journey of different Countries in COVID-19
+Tracking the progression of COVID-19 in various countries offers valuable insights into the effectiveness of containment measures and healthcare responses.
+
+## Clustering of Countries
+Clustering analysis groups countries based on similar COVID-19 transmission patterns, facilitating targeted interventions and resource allocation.
+
+## Prediction using Machine Learning Models
+Machine learning models are employed to forecast COVID-19 transmission trends and assess the effectiveness of containment measures.
+
+## Time Series Data Forecasting
+Time series forecasting techniques enable the prediction of future COVID-19 cases based on historical data trends.
+
+## Overall Prediction based on Analysis
+Integration of various analytical approaches yields comprehensive predictions of COVID-19 transmission dynamics and potential future scenarios.
+
+## Comparing Models using on COVID-19 using Deep Learning
+Comparative analysis of different deep learning models elucidates their performance in predicting COVID-19 transmission patterns.
+
+## Process Risk Prediction CSV data
+Risk prediction models assess the likelihood of COVID-19 transmission in specific geographic areas, guiding targeted interventions.
+
+## Limitations of Project
+This section discusses the limitations of the project, including data constraints and model uncertainties, which may impact the accuracy of predictions.
+
+## Conclusion and Future Scope
+In conclusion, this project highlights the importance of data-driven approaches in understanding and combating the COVID-19 pandemic. Future research directions are outlined to enhance predictive capabilities further and inform public health policies.
 
 ---
 
-# 🎥 Walkthrough Video — Must Match README
+# 🎥 Walkthrough Video — Matching README
 
 In your video, clearly say:
 
 ✅ “Here is the data processing step.”
 ✅ “Here is the machine learning model.”
-✅ “Here is where Generative AI was used”
+✅ “Here is where Generative AI was used.”
 
-If you don’t explicitly point — you risk losing points.
+If you don’t explicitly point out, you risk losing points.
 
 ---
 
-# 🚀 Final Checklist Before You Submit
-
-Make sure your repo has:
+# 🚀 Final Checklist 
 
 * ✅ README.md (with answers above)
 * ✅ Jupyter notebook
