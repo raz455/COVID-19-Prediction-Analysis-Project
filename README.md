@@ -215,7 +215,7 @@ If you don’t explicitly point out, you risk losing points.
 * ✅ README.md
 * ✅ Jupyter notebook
 * ✅ requirements.txt
-* ✅ COVID-19 Datafiles in Zip
+* ✅ COVID-19 Public Dataset in Zip
 * ✅ walkthrough video
   
 ---
