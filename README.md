@@ -83,6 +83,21 @@ COVID-19 data is time-dependent and geographically distributed, requiring carefu
 * Clustering of countries
 * Model comparison
 
+```text
+Model Name	Root Mean Squared Error
+9	Facebook's Prophet Model	18274.258431
+8	SARIMA Model	26413.998566
+3	Holt's Linear	31981.387657
+5	Auto Regressive Model (AR)	39256.738765
+6	Moving Average Model (MA)	59901.534806
+4	Holt's Winter Model	61669.032652
+7	ARIMA Model	127572.759241
+1	Polynomial Regression	478411.931691
+0	Linear Regression	6783550.068817
+2	Support Vector Machine Regressor	7337154.623732
+```
+
+
 **Why appropriate**
 
 * Forecasting provides future-oriented insights
@@ -94,9 +109,6 @@ COVID-19 data is time-dependent and geographically distributed, requiring carefu
 ## 🔹 Generative AI Usage 
 
 > Generative AI tools were used during development to assist with debugging Python code, refining visualization approaches, and improving documentation clarity and preparation of GitHub details. All model design decisions, parameter tuning, and result validation were performed manually to ensure technical correctness.
-
-✅ This satisfies the requirement.
-
 ---
 
 ## Alternative Approaches Considered
@@ -105,7 +117,7 @@ COVID-19 data is time-dependent and geographically distributed, requiring carefu
 * Pure statistical models
 * Real-time streaming pipeline
 
-**Why not selected?**
+**Why was it not selected?**
 
 * dataset constraints
 * interpretability needs
