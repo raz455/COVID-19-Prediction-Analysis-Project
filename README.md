@@ -6,7 +6,7 @@ The rapid spread of COVID-19 created an urgent need for data-driven methods to u
 
 ---
 
-# 🎯 Capstone Requirements Mapping (VERY IMPORTANT)
+# 🎯 Capstone Requirements Mapping
 
 | Requirement          | How it is demonstrated                                                    |
 | -------------------- | ------------------------------------------------------------------------- |
