@@ -77,9 +77,9 @@ COVID-19 data is time-dependent and geographically distributed, requiring carefu
 
 ## 🔹 Machine Learning
 
-**Methods used** *(edit with your exact models)*
+**Methods used** 
 
-* Time-series forecasting (e.g., Linear Regression / LSTM / ARIMA — specify yours)
+* Time-series forecasting (e.g., Linear Regression / Polynomial Regression / Support Vector Machine ModelRegressor / LSTM / AR Models / Forecasting )
 * Clustering of countries
 * Model comparison
 
@@ -93,9 +93,7 @@ COVID-19 data is time-dependent and geographically distributed, requiring carefu
 
 ## 🔹 Generative AI Usage 
 
-Be honest and specific. Example you can adapt:
-
-> Generative AI tools were used during development to assist with debugging Python code, refining visualization approaches, and improving documentation clarity. All model design decisions, parameter tuning, and result validation were performed manually to ensure technical correctness.
+> Generative AI tools were used during development to assist with debugging Python code, refining visualization approaches, and improving documentation clarity and preparation of GitHub details. All model design decisions, parameter tuning, and result validation were performed manually to ensure technical correctness.
 
 ✅ This satisfies the requirement.
 
