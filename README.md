@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Prediction & Analysis Capstone Project
+# 🦠 COVID-19 Prediction & Analysis Capstone Project ( SFHA Data Analytics & AI with Bayo ( BLUE ) ID: DA21093 )
 
 ## 📌 Project Overview
 
