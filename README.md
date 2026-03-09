@@ -219,10 +219,9 @@ In conclusion, this project highlights the importance of data-driven approaches 
 
 In the walkthrough video
 
-* ✅ Kindly increase the sound of the video in case you can't hear properly.
+* ✅ Kindly increase the sound of the video in case you can't hear properly
 * ✅ Video is through Question 1-3 in Github README, along with an explanation of Jupyter Notebook in Colab
 * ✅ Kindly check Github files for a better understanding.
-
 * ✅ THANK YOU
 
 ---
