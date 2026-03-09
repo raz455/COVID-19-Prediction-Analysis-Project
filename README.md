@@ -210,13 +210,13 @@ In conclusion, this project highlights the importance of data-driven approaches 
 
 # 🎥 Walkthrough Video — Matching README
 
-In your video, clearly say:
+In the walkthrough video
 
-✅ “Here is the data processing step.”
-✅ “Here is the machine learning model.”
-✅ “Here is where Generative AI was used.”
+* ✅ Kindly increase the sound of the video in case you can't hear properly.
+* ✅ Video is through Question 1-3 in Github README, along with an explanation of Jupyter Notebook in Colab
+* ✅ Kindly check Github files for a better understanding.
 
-If you don’t explicitly point out, you risk losing points.
+* ✅ THANK YOU
 
 ---
 
